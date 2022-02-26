@@ -152,7 +152,7 @@ body{
     margin-left: 10%;
 }
 /*responsividade*/
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1060px) {
     .hear-1{
         margin-right: 10%;
         margin-left: 10%;
